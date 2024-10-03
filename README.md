@@ -1,6 +1,8 @@
-# template
+# gomponents gallery
 
-[![Go](https://github.com/maragudk/template/actions/workflows/ci.yml/badge.svg)](https://github.com/maragudk/template/actions/workflows/ci.yml)
+[![Go](https://github.com/maragudk/gomponents-gallery/actions/workflows/ci.yml/badge.svg)](https://github.com/maragudk/gomponents-gallery/actions/workflows/ci.yml)
+
+Contribute your favorite gomponents and helper functions! [Create a fork](https://github.com/maragudk/gomponents-gallery/fork) and open a PR.
 
 Made with ✨sparkles✨ by [maragu](https://www.maragu.dev/).
 
