@@ -7,6 +7,10 @@
 
 Contribute your favorite [gomponents](https://www.gomponents.com) and helper functions! [Create a fork](https://github.com/maragudk/gomponents-gallery/fork) and open a PR.
 
+```shell
+go get maragu.dev/gomponents-gallery
+```
+
 Made with ✨sparkles✨ by [maragu](https://www.maragu.dev/).
 
 Does your company depend on this project? [Contact me at markus@maragu.dk](mailto:markus@maragu.dk?Subject=Supporting%20your%20project) to discuss options for a one-time or recurring invoice to ensure its continued thriving.
